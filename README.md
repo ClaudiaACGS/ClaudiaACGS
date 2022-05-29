@@ -22,5 +22,5 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 
 
-## Tecnologias Data Science e Data Analytics
+## IDE Data Science e Data Analytics
 <img src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white"/> <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
