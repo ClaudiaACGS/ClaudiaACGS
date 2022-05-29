@@ -15,7 +15,13 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 --->
 
 <h2>👋 Olá, Sou Ana Claudia</h2>
-<p>Minha jornada na área de dados começou em 2020 durante a pândemia da COVID-19 encontrei na Data Science e na Data Analytics uma oportunidade de crescimento profissional visto que os dados estão sendo considerados o novo petróleo. Desde 2020 venho participando de programas de qualificação profissional na área de dados. Desta forma, adquiri habilidades com programação nas linguagens Python e R, conhecimentos em Excel Avançado, Power Bi, Google Sheets, Estatística, Visualização de dados e Processamento e Limpeza de Dados.</br>
+<p>Minha jornada na área de dados começou em 2020 durante a pândemia da COVID-19 encontrei na Data Science e na Data Analytics uma oportunidade de crescimento profissional visto que os dados estão sendo considerados o novo petróleo. Desde 2020 venho participando de programas de qualificação profissional na área de dados. Desta forma, adquiri habilidades com programação nas linguagens Python e R, conhecimentos em Excel Avançado, Power Bi, Google Sheets, Estatística, Visualização de dados e Processamento e Limpeza de Dados. Além de ter conhecimento da área de dados, também possui conhecimento de nnível básico ao intermediário em Mobile e Front-End, para mais informaçãoes seguem os meus portfólios:</br>
+<li> Portfólio Front-End <a href="https://github.com/Aninhacgs"></a></li>
+<li> Portfólio Móbile</li>
+
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Aninhacgs)
+  
+
 <h2>Qualificação Profissional</h2>
 <li> 2020-2020 Administradora de Banco de Dados - UFV </li>
 <li> 2020-2021 Jovem Cientista de Dados - UECE / DELL
