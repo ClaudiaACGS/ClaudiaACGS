@@ -14,6 +14,13 @@ Link dos Badges
 https://dev.to/envoy_/150-badges-for-github-pnk
 --->
 
+👋 Olá, sou Ana Claudia
+<h2>Qualificação Profissional</h2>
+<li> 2020-2020 Administradora de Banco de Dados - UFV </li>
+<li> 2020-2021 Jovem Cientista de Dados - UECE / DELL
+<li> 2021-2022 Data Analytics - WoMakersCode</li>
+<li> 2022-2022 Certificação Data Analytics - Laboratória / IBM</br></br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudiaACGS&theme=radical&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CludiaACGS&hide=javascript,html)](https://github.com/ClaudiaACGS/github-readme-stats)
 
