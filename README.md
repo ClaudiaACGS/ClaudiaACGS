@@ -14,7 +14,8 @@ Link dos Badges
 https://dev.to/envoy_/150-badges-for-github-pnk
 --->
 
-👋 Olá, sou Ana Claudia
+<h2>👋 Olá, Sou Ana Claudia</h2>
+<p>Minha jornada na área de dados começou em 2020 durante a pândemia da COVID-19 encontrei na Data Science e na Data Analytics uma oportunidade de crescimento profissional. Desde 2020 venho participando de programas de qualificação profissional na área de dados. Desta forma, adquiri habilidades com programação nas linguagens Python e R, conhecimentos em Excel Avançado, Power Bi, Google Sheets, Estatística, Visualização de dados e Processamento e Limpeza de Dados.</br>
 <h2>Qualificação Profissional</h2>
 <li> 2020-2020 Administradora de Banco de Dados - UFV </li>
 <li> 2020-2021 Jovem Cientista de Dados - UECE / DELL
