@@ -20,7 +20,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Aninhacgs)
 
-<h3>Portfófio Mobile</h3>
+<h3>Portfólio Mobile</h3>
 
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/annecgs)  
 
