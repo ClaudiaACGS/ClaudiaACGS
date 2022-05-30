@@ -22,7 +22,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 <h3>Portfólio Mobile</h3>
 
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/annecgs)  
+[<img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-violet.png" width=50px height=50px />](https://github.com/annecgs)  
 
 <h2>Qualificação Profissional</h2>
 <li> 2020-2020 Administradora de Banco de Dados - UFV </li>
