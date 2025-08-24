@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=firebase&perline=1)](https://skillicons.dev)
 
 ## Programming Language
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,kotlin,dart,cpp,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,kotlin,dart,cpp,&perline=6)](https://skillicons.dev)
 <!---
 ClaudiaACGS/ClaudiaACGS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
