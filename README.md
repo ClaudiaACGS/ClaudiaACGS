@@ -1,4 +1,5 @@
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,kotlin,dart,cpp,react,flutter,firebase,nodejs,androidstudio,idea,vscode,gradle,npm,yarn,gitlab,github,git,githubactions&perline=6)](https://skillicons.dev)
 
 <!---
 ClaudiaACGS/ClaudiaACGS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
