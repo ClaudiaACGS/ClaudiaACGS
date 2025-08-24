@@ -1,3 +1,44 @@
+## Mobile Engineer
+
+🚀 **Native Android & Cross-Platform Mobile Developer**
+Building scalable, maintainable, and testable mobile applications with **clean architecture** and **best practices**.
+
+## 🔹 Skills
+
+**💻 Mobile Development**
+
+* Android (Kotlin & Java)
+* Flutter (Dart)
+* React Native (TypeScript)
+
+**🏗 Architecture & Design**
+
+* MVVM, MVC, Clean Architecture
+* SOLID Principles & Atomic Design
+* Modularization & scalable project structure
+
+**⚡ State Management**
+
+* Cubit & Bloc (Flutter)
+* ViewModel (Android)
+* Hooks (React Native)
+
+**🧪 Testing & Quality**
+
+* Test-Driven Development (TDD)
+* Unit, Integration & UI Testing
+
+**🛠 Practices**
+
+* Code versioning & Git workflows
+* Code review & documentation
+
+## 📂 About Me
+
+I build **efficient and user-friendly mobile apps** that follow **modern architecture patterns** and **best practices**, ensuring maintainable and scalable codebases.
+
+
+
 ## Frameworks
 [![My Skills](https://skillicons.dev/icons?i=react,flutter&perline=2)](https://skillicons.dev)
 
