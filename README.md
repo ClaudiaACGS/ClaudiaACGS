@@ -1,64 +1,18 @@
-## Mobile Engineer
-
-🚀 **Native Android & Cross-Platform Mobile Developer**
-Building scalable, maintainable, and testable mobile applications with **clean architecture** and **best practices**.
-
-## 🔹 Skills
-
-**💻 Mobile Development**
-
-* Android (Kotlin & Java)
-* Flutter (Dart)
-* React Native (TypeScript)
-
-**🏗 Architecture & Design**
-
-* MVVM, MVC, Clean Architecture
-* SOLID Principles & Atomic Design
-* Modularization & scalable project structure
-
-**⚡ State Management**
-
-* Cubit & Bloc (Flutter)
-* ViewModel (Android)
-* Hooks (React Native)
-
-**🧪 Testing & Quality**
-
-* Test-Driven Development (TDD)
-* Unit, Integration & UI Testing
-
-**🛠 Practices**
-
-* Code versioning & Git workflows
-* Code review & documentation
-
-## 📂 About Me
-
-I build **efficient and user-friendly mobile apps** that follow **modern architecture patterns** and **best practices**, ensuring maintainable and scalable codebases.
+I am a Mobile Engineer driven by the passion of turning ideas into seamless digital experiences. My journey combines native Android (Kotlin & Java) and cross-platform development with Flutter (Dart) and React Native (TypeScript), where I focus on building apps that are not only functional, but also scalable, maintainable, and enjoyable to use. I believe that great software comes from a balance of clean architecture, modular design, and strong principles like SOLID, paired with creativity and empathy for the user. For me, writing code is more than solving problems — it’s about crafting solutions that last, grow, and inspire. Whether I’m implementing state management, practicing TDD, or collaborating through code reviews and Git workflows, my goal is always the same: deliver high-quality mobile apps that make a real impact.
 
 
+## 🛠 Skills
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,dart,flutter,react,ts,js,cpp,androidstudio,idea,vscode,gradle,npm,yarn,nodejs,firebase,git,github,gitlab,githubactions&perline=10)](https://skillicons.dev)
 
-## Frameworks
-[![My Skills](https://skillicons.dev/icons?i=react,flutter&perline=2)](https://skillicons.dev)
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=ClaudiaACGS&show_icons=true&theme=radical&hide_border=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=ClaudiaACGS&theme=radical&hide_border=true)  
 
-## IDE
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,vscode&perline=3)](https://skillicons.dev)
+## 🚀 Featured Projects
+- 📱 [Career Manager App](https://github.com/ClaudiaACGS/career-manager) – Android app using **Jetpack Compose** + Firebase
+- 🐾 [Pet Health Tracker](https://github.com/ClaudiaACGS/pet-tracker) – React Native app with **Zustand & Firebase**
+- 🎯 [English Pronunciation App](https://github.com/ClaudiaACGS/english-pronunciation) – KMM project with **multiplatform speech recognition**
 
-## Package Management
-[![My Skills](https://skillicons.dev/icons?i=gradle,npm,yarn&perline=3)](https://skillicons.dev)
-
-## Code Versioning
-[![My Skills](https://skillicons.dev/icons?i=gitlab,github,git,githubactions&perline=4)](https://skillicons.dev)
-
-## Runtime JavaScript
-[![My Skills](https://skillicons.dev/icons?i=nodejs&perline=1)](https://skillicons.dev)
-
-## BaaS
-[![My Skills](https://skillicons.dev/icons?i=firebase&perline=1)](https://skillicons.dev)
-
-## Programming Language
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,kotlin,dart,cpp,&perline=6)](https://skillicons.dev)
 
 
 <picture>
