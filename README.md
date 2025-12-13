@@ -1,3 +1,6 @@
+<h1 text align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Codes&size=35&pause=1000&color=C71585&labe&center=true&width=785&height=70&lines=Hello+I'm+Ana+Claudia;I'm+Mobile+Engineer;" alt="Typing SVG" /></a>
+</h1>
+
 I am a Mobile Engineer driven by the passion of turning ideas into seamless digital experiences. My journey combines native Android (Kotlin & Java) and cross-platform development with Flutter (Dart) and React Native (TypeScript), where I focus on building apps that are not only functional, but also scalable, maintainable, and enjoyable to use. I believe that great software comes from a balance of clean architecture, modular design, and strong principles like SOLID, paired with creativity and empathy for the user. For me, writing code is more than solving problems — it’s about crafting solutions that last, grow, and inspire. Whether I’m implementing state management, practicing TDD, or collaborating through code reviews and Git workflows, my goal is always the same: deliver high-quality mobile apps that make a real impact.
 
 
